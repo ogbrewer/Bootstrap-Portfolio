@@ -79,6 +79,18 @@ header{
   background: #4aaaa5;
 }
 
+#message {
+  margin-bottom: 20px;
+}
+
+#name {
+  margin-bottom: 20px;
+}
+
+#email {
+  margin-bottom: 20px;
+}
+
 nav {
   float: right;
   margin-top:0px;
